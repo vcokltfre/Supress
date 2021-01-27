@@ -10,3 +10,6 @@ with supressed():
     print("This output is supressed!")
 
 print("This output isn't!")
+```
+
+### This package exists as a result of certain libraries that force printing output when it's unwanted
