@@ -19,4 +19,4 @@ class supressed:
         pass
 
 
-__all__ = (supressed)
+__all__ = ("supressed",)
